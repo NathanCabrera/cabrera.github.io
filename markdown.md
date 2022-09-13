@@ -27,9 +27,6 @@ __Daniel Cabrera__
   1. 1410
   1. Lab
 
-## Images
-
-![This is a alt text.](/image/sample.png "This is a sample image.")
 
 ## Links
 
